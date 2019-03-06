@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<img src="axi.jpg" alt="AxiomIO Training" width="104" height="142">
+<h1><b><i>LIST OF BOOKS TO BE READ:</i></b></h1>
+<a href="https://launchschool.com/books">BOOKS</a>
+
+<p>By these books we get an idea about basic concepts of command line, Git and Github, HTTP, SQL, web APIs.</p>
+
+</body>
+</html>

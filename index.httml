@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>AxiomIO Training</title> 
+    </head>
+    
+     <body> 
+        
+    <nav>
+         <ul>
+             <li><a href="#"><h1>PLAN</h1></a>
+             <li><a href="#"><h1>COURSES</h1></a>
+               <ul> 
+                 <li><a href="https://github.com/rohinibarla/FOC?file=1"><h4>Computer Fundamentals</h4></a></li>
+                  <li><a href="https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo"><h4>Computer Crash Course</h4></a></li>
+                 <li><a href="file:///C:/Users/K.DIVYA/Desktop/parrots_training_main.pdf">
+                <h4>Parrot's Traning Story</h4></a></li>
+                 
+              </ul>
+        </ul>
+    </nav>
+    </body>
+    </html>
